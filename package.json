@@ -1,8 +1,9 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "engines": {
-    "node": "19.8.1"
+    "node": "18.11.1",
+    "npm":"8.19.2"
   },
   "description": " This is a Progressive Web Applications (PWA) Text Editor. The application will also function offline",
   "main": "server.js",
@@ -20,7 +21,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "npm": "^6.14.18"
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
