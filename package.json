@@ -2,8 +2,7 @@
   "name": "jate",
   "version": "1.0.0",
   "engines": {
-    "node": "18.11.1",
-    "npm":"8.19.2"
+    "node": "19.8.1"
   },
   "description": " This is a Progressive Web Applications (PWA) Text Editor. The application will also function offline",
   "main": "server.js",
