@@ -24,7 +24,8 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
-    "nodemon": "^1.14.9"
+    "nodemon": "^1.14.9",
+    "webpack-cli": "^5.1.4"
   },
   "repository": {
     "type": "git",

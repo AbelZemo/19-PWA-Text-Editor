@@ -1,4 +1,4 @@
-importScripts("autoprecache-manifest.142b5b66115424d4d2ef64dec12d3382.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("autoprecache-manifest.debab776539dabcc5347040f6cbd90cd.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 const { offlineFallback, warmStrategyCache } = require('workbox-recipes');
 const { CacheFirst } = require('workbox-strategies');
