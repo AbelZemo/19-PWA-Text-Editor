@@ -1,6 +1,9 @@
 {
   "name": "JATE",
   "version": "1.0.0",
+  "engines": {
+    "node": "19.8.1"
+  },
   "description": " This is a Progressive Web Applications (PWA) Text Editor. The application will also function offline",
   "main": "server.js",
   "scripts": {
