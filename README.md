@@ -91,11 +91,15 @@ icon of JATE on the desktop
   * WHEN I register a service worker
   * THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets.
 
+![8](screenshots/8.png)
+
 9. 
 
   * WHEN I deploy to Heroku
   * THEN I should have proper build scripts for a webpack application 
 
+
+![7](screenshots/7.png)
 
   ## [License](#table-of-contents)
 
@@ -113,3 +117,6 @@ icon of JATE on the desktop
   [GitHub](https://github.com/AbelZemo)
 
   [Email: AbelZemo](abelzemo@gmail.com)
+
+
+This app is deployed on heroku : https://pwa-text-editor-abel-dcff80b9c3c6.herokuapp.com/
